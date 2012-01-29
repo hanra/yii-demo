@@ -47,7 +47,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=yii_lu_demo',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => '',
+			'password' => '696065',
 			'charset' => 'utf8',
 		),
 		'errorHandler'=>array(
