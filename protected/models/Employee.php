@@ -74,7 +74,7 @@ class Employee extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'id' => 'ID',
+			'id' => 'Employee ID',
 			'departmentId' => 'Department',
 			'firstName' => 'First Name',
 			'lastName' => 'Last Name',
